@@ -105,3 +105,8 @@ Jupyter notebooks covering course content (read to run in Colab). The notebooks 
 1. Clone this repository to your local machine using:
 
    git clone https://github.com/luiscunhacsc/finance_python.git
+
+
+
+
+**Disclaimer: The content provided in this course and repository is for educational purposes only and is not intended as investment advice. Do not make financial decisions based on the materials presented. The creator of this course, Luis Cunha, PhD, and any associated entities, are not responsible for any financial actions taken by individuals using the content from this course or repository. By using this material, you acknowledge and agree that the content is purely for learning purposes, and the author is not liable for any decisions or actions taken based on the information provided.**
