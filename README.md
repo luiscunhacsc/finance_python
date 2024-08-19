@@ -1,6 +1,12 @@
 # Financial Analysis Fundamentals: A Python-based Approach
 
-Welcome to the official repository for the Udemy course **Financial Analysis Fundamentals: A Python-based Approach**. This course is designed to provide a comprehensive introduction to financial analysis with an emphasis on Python programming. Whether you're a student, professional, or entrepreneur, this course equips you with the skills needed to make informed financial decisions.
+Welcome to the official repository for the Udemy course **Financial Analysis Fundamentals: A Python-based Approach**. 
+
+This course is designed to make financial analysis more accessible by using Python to simplify and clarify abstract financial concepts. The goal is to explore and learn a fascinating quantitative field.
+
+**Disclaimer:** The content provided in this course and repository is for educational purposes only and is not intended as investment advice. Do not make financial decisions based on the materials presented. The creator of this course, Luis Cunha, PhD, and any associated entities, are not responsible for any financial actions taken by individuals using the content from this course or repository. By using this material, you acknowledge and agree that the content is purely for learning purposes, and the author is not liable for any decisions or actions taken based on the information provided.
+
+
 
 ## Course Overview
 
