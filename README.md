@@ -13,7 +13,7 @@ This course covers essential topics including:
 
 ## Repository Structure
 
-- `/notebooks`: Jupyter notebooks covering course content. The notebooks include the following topics:
+Jupyter notebooks covering course content (read to run in Colab). The notebooks include the following topics:
   
   1. **01_Intro_Financial_Ratios.ipynb** - Introduction to Financial Ratios
   2. **02_Financial_Ratios_Intro_Plot.ipynb** - Financial Ratios with Plotting
@@ -50,13 +50,8 @@ This course covers essential topics including:
   33. **32_Derivatives_Intro.ipynb** - Introduction to Derivatives
   34. **33_Hedging_with_Options.ipynb** - Hedging with Options
 
-- `/data`: Sample datasets used in the course.
-- `/scripts`: Python scripts for financial calculations and analysis.
-- `/resources`: Additional materials and references.
-
 ## Getting Started
 
 1. Clone this repository to your local machine using:
 
-   ```bash
    git clone https://github.com/luiscunhacsc/finance_python.git
