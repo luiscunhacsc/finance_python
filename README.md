@@ -10,12 +10,51 @@ This course is designed to make financial analysis more accessible by using Pyth
 
 ## Course Overview
 
-This course covers essential topics including:
+This course offers a hands-on introduction to financial analysis by leveraging the power of Python to demystify complex financial concepts. Through a series of Jupyter notebooks, you will explore a wide range of topics essential for understanding and applying financial analysis in real-world scenarios.
 
-- **Introduction to Finance**: Fundamental principles, financial goals, and ethical considerations.
-- **Financial Statements Analysis**: Interpretation and analysis of financial statements.
-- **Investment Analysis**: Techniques like NPV, IRR, and technical analysis.
-- **Python Integration**: Practical applications of Python in financial analysis.
+### Key Topics Covered:
+
+- **Introduction to Financial Ratios**:
+  - Begin with an overview of key financial ratios used to evaluate the health and performance of businesses.
+  - Visualize and analyze financial ratios with Python plotting techniques.
+
+- **Time Value of Money (TVM)**:
+  - Understand the foundational concept of the time value of money, including present and future value calculations.
+  - Dive into annuities and perpetuities, exploring how these financial instruments work.
+
+- **Interest Rates and Net Present Value (NPV)**:
+  - Learn how interest rates influence financial decisions and calculate NPV for investment appraisal.
+
+- **Investment Returns and Technical Analysis**:
+  - Analyze investment returns and apply technical analysis techniques to make informed investment decisions.
+
+- **Financial Metrics and Stock Analysis**:
+  - Explore various financial metrics and their application in stock analysis.
+  - Compare ETFs and mutual funds to evaluate their efficiency.
+
+- **Valuation Techniques**:
+  - Get introduced to valuation techniques and learn how to implement valuation models in Python.
+
+- **Quantitative Models and Regression Analysis**:
+  - Apply quantitative models in finance and conduct regression analysis to predict financial trends.
+
+- **Risk and Return, Portfolio Theory**:
+  - Study the relationship between risk and return, and delve into diversification and portfolio theory.
+  - Explore Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM).
+
+- **Risk Management and Hedging**:
+  - Learn about risk management techniques and how to hedge financial positions.
+  - Monitor risks effectively and understand the role of options in hedging.
+
+- **Performance Evaluation and Benchmarking**:
+  - Gain insights into performance evaluation using different indicators and benchmarking techniques.
+  - Implement the Brinson Model and factor-based performance attribution.
+
+- **Corporate Financing, Fixed Income, and Derivatives**:
+  - Explore corporate financing strategies, the Weighted Average Cost of Capital (WACC), and the fixed income market.
+  - Get introduced to derivatives and their use in financial markets.
+
+This comprehensive course is structured to build your understanding progressively, combining theoretical concepts with practical Python-based applications, making it an ideal resource for anyone looking to deepen their financial analysis skills.
 
 ## Repository Structure
 
