@@ -1,3 +1,6 @@
+![Course Image](Course%20Image_Thumb.png)
+
+
 # Financial Analysis Fundamentals: A Python-based Approach
 
 Welcome to the official repository for the Udemy course **Financial Analysis Fundamentals: A Python-based Approach**. 
